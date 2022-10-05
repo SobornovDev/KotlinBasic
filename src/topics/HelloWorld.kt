@@ -1,8 +1,7 @@
 package topics
 
-class HelloWorld {
-    public fun main() {
-        println("Hello World")
-    }
 
+fun main() {
+    println("Hello World")
 }
+
